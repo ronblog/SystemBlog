@@ -5,3 +5,4 @@ grep -v "word" file
 grep
 
 grep -E "a" | grep -E "b" file
+test_1004_2
