@@ -1,0 +1,5 @@
+get line count
+grep -o "word" file |wc -l
+get not 
+grep -v "word" file
+grep
